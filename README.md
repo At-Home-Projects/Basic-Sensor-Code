@@ -1,5 +1,6 @@
 
-Basic code for Arduino sensors.
+Basic code for Arduino sensors:
+
 
 
 ultrasonic = distance
