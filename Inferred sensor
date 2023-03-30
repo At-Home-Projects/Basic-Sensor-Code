@@ -1,3 +1,7 @@
+/*
+* in this code the sensor's signal wire is pluged into pin 8 (does not need to be PWM)
+*/
+
 
 int data = 0; // variable to hold the binary (High Low) value of the ir sensor
 
