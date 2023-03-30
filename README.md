@@ -3,8 +3,8 @@ Basic code for Arduino sensors:
 
 
 
-ultrasonic = distance
+Ultrasonic = distance
 
-infred identifies between black and white
+Infred: identifies between black and white
 
-push button = buton that you push with your finger
+Push button = buton that you push with your finger
