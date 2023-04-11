@@ -4,7 +4,7 @@ int button_Pin = 13;              // set button in pin 13 (pin does not need to 
 
 void setup() {
   
-  Serial.begin(9600); // set up serial monotor
+  Serial.begin(9600);                         // set up serial monotor
   pinMode(button_Pin, INPUT_PULLUP);          // set up button (define as input)
 
 }
