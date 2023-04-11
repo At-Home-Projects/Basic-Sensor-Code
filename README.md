@@ -7,6 +7,8 @@ Infred: identifies between black and white
 
 Push button = buton that you push with your finger
 
+tempurature: temperature in Fahrenheit (can be done in Celsius)
+
 
 
 ## Push Button circuitry:
