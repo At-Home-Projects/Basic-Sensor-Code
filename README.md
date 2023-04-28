@@ -25,3 +25,8 @@ The immage below is was made with the flat face of the sensor facing you.
 
 ![image](https://user-images.githubusercontent.com/120524043/235040956-bbf6cfdd-f33f-45ce-aefd-5ebdc5d0cd28.png)
 
+## PIR Motion Sensor Circuitry:
+
+ *Note that some sensors have diferent pin orders
+ 
+ ![image](https://user-images.githubusercontent.com/120524043/235059536-3108d695-05bd-4d2b-9d65-aee22c5eb802.png)
