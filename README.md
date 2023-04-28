@@ -20,3 +20,8 @@ tempurature = temperature in Fahrenheit (can be done in Celsius)
 The immage below is was made with the flat face of the sensor facing you.
 
 ![image](https://user-images.githubusercontent.com/120524043/231288956-90c67553-f2b2-4c41-82ea-772183347419.png)
+
+## Ultrasonic Circuitry:
+
+![image](https://user-images.githubusercontent.com/120524043/235040956-bbf6cfdd-f33f-45ce-aefd-5ebdc5d0cd28.png)
+
