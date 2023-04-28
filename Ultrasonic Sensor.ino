@@ -1,6 +1,6 @@
 
 /*
- * This is code for an ultrasoinic sensor useing an arduino.
+ * This is code for an HC-SR04 ultrasoinic sensor useing an arduino.
  */
 
 
