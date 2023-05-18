@@ -30,3 +30,9 @@ The immage below is was made with the flat face of the sensor facing you.
  *Note that some sensors have diferent pin orders
  
  ![image](https://user-images.githubusercontent.com/120524043/235059536-3108d695-05bd-4d2b-9d65-aee22c5eb802.png)
+
+## Forse Sensing Resistor Circuitry:
+
+Use a 100K Resistor (this will work with all FSRs)
+
+![image](https://github.com/At-Home-Projects/Sensor-Code/assets/120524043/f2189d19-f2d0-4178-8972-81c009cfd761)
