@@ -14,8 +14,8 @@ void loop() {
 if (digitalRead(button_Pin) == LOW) { // if the buton is presed
   Serial.println("Presed!");          // print Presed! to the serial moitor
   
-} else { // if the button is not presed
-  Serial.println("Not presed"); // print Nope! to ther serial monitor
+} else {                        // if the button is not presed
+  Serial.println("Not presed"); // print Not presed! to the serial monitor
 }
 
 delay(100); // wait 0.1 seconds
