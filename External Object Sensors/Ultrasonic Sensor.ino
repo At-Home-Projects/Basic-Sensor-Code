@@ -18,24 +18,24 @@ void setup() {
 Serial.begin(9600); // set up ther serial monitor
 
 // setup utrasonic sensor pin types
-pinMode(trigger,OUTPUT); 
-pinMode(echo,INPUT); 
+pinMode(trigger, OUTPUT); 
+pinMode(echo, INPUT); 
 
 }
 
 void loop() {
 
   //turn off sensor 
-  digitalWrite(trigger,LOW);         // turn off ping    
+  digitalWrite(trigger, LOW);         // turn off ping    
   delayMicroseconds(2);              // wait 2 microseconds 
 
   //send trigger ping 
-  digitalWrite(trigger,HIGH);        // send ping 
+  digitalWrite(trigger ,HIGH);        // send ping 
   delayMicroseconds(10);             // wait 10 microseconds 
-  digitalWrite(trigger,LOW);         // turn off ping 
+  digitalWrite(trigger, LOW);         // turn off ping 
 
   //get data and calculate distance 
-  duration = pulseIn(echo,HIGH);       // receive ping 
+  duration = pulseIn(echo, HIGH);       // receive ping 
   distance = ((float)(duration))/58.2;  // calculate ping 
 
   //display distance on serial monitor when the Arduino is plugged in 
